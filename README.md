@@ -118,10 +118,11 @@ They are best visited after the monsoon season, when the water flow is strong an
 
 
 ## OUTPUT
-![alt text](<Screenshot (46).png>)
-![alt text](<Screenshot (47).png>)
-![alt text](<Screenshot (48).png>)
-![alt text](<Screenshot (49).png>)
+<img width="1920" height="955" alt="Screenshot (46)" src="https://github.com/user-attachments/assets/2916408c-8b71-4147-80bf-7cda84f72409" />
+<img width="1920" height="307" alt="Screenshot (47)" src="https://github.com/user-attachments/assets/1ea1a228-dfed-493d-902d-8fff2c782bcf" />
+<img width="1920" height="354" alt="Screenshot (48)" src="https://github.com/user-attachments/assets/aa514788-f0f2-4012-b452-c72db379b10e" />
+<img width="1920" height="359" alt="Screenshot (49)" src="https://github.com/user-attachments/assets/76aeae02-dcc7-4acf-88a8-6ffd300f9abc" />
+
 
 
 
